@@ -1,0 +1,44 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 8,
+      "NIM": 180823453,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1614596447146,
+      "nim": "1841720111",
+      "nama": "Alan weeks",
+      "alamat": "kab. Pasuruan",
+      "telfon": "088996272090",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1614598737967,
+      "nim": "1841720112",
+      "nama": "Arief Wells",
+      "alamat": "Surabaya",
+      "telfon": "085672124321",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1614599402814,
+      "nim": "1841720113",
+      "nama": "Reyasviel Einzbern",
+      "alamat": "Singosari",
+      "telfon": "082257548146",
+      "angkatan": "2018",
+      "status": "aktif"
+    }
+  ]
+}
