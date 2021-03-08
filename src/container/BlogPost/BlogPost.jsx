@@ -59,7 +59,7 @@ class BlogPost extends Component {
     }
 
     handleTombolSimpan = () => {
-        fetch('http://localhost:3001/posts', {
+        fetch('http://localhost:3001/mahasiswa', {
             method: 'post',
             headers: {
                 'Accept': 'application/json',
